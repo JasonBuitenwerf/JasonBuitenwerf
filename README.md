@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @JasonBuitenwerf
-- 👀 I’m interested in Application and Web Development, AI and Machine Learning, and LLinguistics
+- 👀 I’m interested in Application and Web Development, AI and Machine Learning, and Linguistics
 - 📫 How to reach me: email jason.buitenwerf@gmail.com
 - 😄 Pronouns: He/Him
 
